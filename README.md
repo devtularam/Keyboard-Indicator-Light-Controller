@@ -98,4 +98,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-For any questions or suggestions, please contact [tularamkathariya3@gmail.com.com](mailto:tularamkathariya3@gmail.com.com).
+For any questions or suggestions, please contact [tularamkathariya3@gmail.com](mailto:tularamkathariya3@gmail.com).
